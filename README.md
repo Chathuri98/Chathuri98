@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathuri</h1>
-<h3 align="center">Third year Computer Science Undergraduate student at University of Colombo School of Computing.</h3>
+<h3 align="center">Computer Science Undergraduate student at University of Colombo School of Computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuri98&label=Profile%20views&color=0e75b6&style=flat" alt="chathuri98" /> </p>
 
